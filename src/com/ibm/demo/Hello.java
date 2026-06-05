@@ -1,0 +1,20 @@
+package com.ibm.demo;
+
+public class Hello {
+	public static void main(String[] args) {
+		
+		System.out.println("Hello WorldS");
+		
+		int no = 10 ; 
+		
+//		switch (key) {
+//		case value: {
+//			
+//			yield type;
+//		}
+//		default:
+//			throw new IllegalArgumentException("Unexpected value: " + key);
+//		}
+	}
+
+}
